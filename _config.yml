@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Michael  
-middle_name:
+middle_name: J.
 last_name: Englert
 email: michael.englert@usu.edu
 description: > Masters of Environment and Society student at Utah State University.# the ">" symbol means to ignore newlines until "footer_text:"
